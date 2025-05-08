@@ -1,9 +1,9 @@
 name: Update Posters JSON
 
 on:
-  workflow_dispatch: # Allows you to run this manually
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
 
 jobs:
   fetch-and-commit:
@@ -24,11 +24,13 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
 
       - name: Commit and push if changed
+        env:
+          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
           git add public/posters.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Update posters.json from API"
-          git push
+          git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git HEAD:main
