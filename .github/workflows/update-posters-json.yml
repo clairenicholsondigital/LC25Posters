@@ -1,4 +1,4 @@
-name: Update Posters JSON
+name: Update Posters JSONX
 
 on:
   workflow_dispatch:
