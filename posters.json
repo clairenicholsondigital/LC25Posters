@@ -1,4 +1,4 @@
-{"success":true,"data": [
+{"success":true,"data":[
   {
     "Presenter": "Afrah Alshammari",
     "Poster title": "Application of long-read sequencing and EPI2ME workflow in neurodevelopmental disorders and craniosynostosis",
@@ -284,6 +284,13 @@
     "Poster title": "Long-read direct RNA sequencing of brain tissue: RNA modifications and neurodegeneration",
     "Onsite Number": 5,
     "Online number": "HT07",
+    "Poster Hall": "Human & translational research"
+  },
+  {
+    "Presenter": "Laura Ebner",
+    "Poster title": "Application of direct RNA sequencing in rare genetic disease diagnosis",
+    "Onsite Number": "",
+    "Online number": "HT08",
     "Poster Hall": "Human & translational research"
   },
   {
