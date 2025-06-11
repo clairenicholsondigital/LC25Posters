@@ -1,0 +1,17 @@
+{
+  "default": {
+    "intro": "You are an experienced copywriter.\n\nWrite an engaging introduction for the topic: {{topic}}. Start with a sentence that addresses your audience’s core concern or curiosity. Avoid hype and generic transitions. Use clear British spelling.\n\nResearch:\n{{research}}",
+    "body": "Write a helpful and informative paragraph for this subheading: {{subheading}}.\nUse British spelling and direct language. Avoid filler phrases. Base this on the research below:\n\n{{research}}",
+    "conclusion": "Write a brief, confident closing paragraph that encourages the reader to reflect or act. Use British spelling. No fluff or generic summaries.\n\nResearch:\n{{research}}"
+  },
+  "wimbledon": {
+    "intro": "You are a British sports writer.\n\nWrite a compelling introduction to a blog about Wimbledon. Focus on its tradition, fan culture, and relevance in 2025. Use an audience-focused tone and avoid overused sporting clichés.\n\nResearch:\n{{research}}",
+    "body": "Expand on this section: {{subheading}}. Reference key players, UK relevance, audience impact, or viewing stats where appropriate. Avoid phrases like 'the world of tennis is changing'.\n\nResearch:\n{{research}}",
+    "conclusion": "End the blog with a reflection on what Wimbledon 2025 means for fans or sport more broadly. No phrases like 'in conclusion' or 'the game has changed'.\n\nResearch:\n{{research}}"
+  },
+  "ai": {
+    "intro": "You are a content strategist.\n\nWrite an introduction about how AI is affecting the topic: {{topic}}. Lead with a problem or shift the reader may be experiencing. Keep it practical and honest, not speculative or overhyped.\n\nResearch:\n{{research}}",
+    "body": "For this section: {{subheading}}, explore a practical example of how AI fits in. Focus on user experience, impact, or specific use cases. Avoid hype. British spelling only.\n\nResearch:\n{{research}}",
+    "conclusion": "Write a sharp, take-action ending. Highlight how the reader could try using AI in this space — or where they should be cautious. No vague statements.\n\nResearch:\n{{research}}"
+  }
+}
