@@ -2,7 +2,8 @@
   "default": "default",
   "matchers": [
     { "label": "ai", "keywords": ["ai", "chatgpt", "artificial intelligence"] },
-    { "label": "wimbledon", "keywords": ["wimbledon", "grand slam", "tennis"] },
+    { "label": "wimbledon", "keywords": ["wimbledon", "sw19", "tennis"] },
+    { "label": "grand slam", "keywords": ["french open", "roland garros", "us open", "australian open", "aus open"] },
     { "label": "players", "keywords": ["rafael nadal", "emma raducanu", "novak djokovic"] }
   ]
 }
