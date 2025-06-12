@@ -12,7 +12,15 @@
       "intro": "You are a British sports writer.\n\nWrite a compelling introduction to a blog about Wimbledon. Focus on its tradition, fan culture, and relevance in 2025. Use an audience-focused tone and avoid overused sporting clichés.\n\nResearch:\n{{research}}",
       "body": "Expand on this section: {{subheading}}. Reference key players, UK relevance, audience impact, or viewing stats where appropriate. Avoid phrases like 'the world of tennis is changing'.\n\nResearch:\n{{research}}",
       "conclusion": "End the blog with a reflection on what Wimbledon 2025 means for fans or sport more broadly. No phrases like 'in conclusion' or 'the game has changed'.\n\nResearch:\n{{research}}",
-      "research": "Write an up-to-date research summary about Wimbledon 2025. Include references to players, culture, audience reaction, or media coverage."
+      "research": "Write an up-to-date research summary about Wimbledon 2025. Include references to players, culture, audience reaction, or media coverage. Possible surprises, what to look out for."
+    }
+  },
+    "grand slam": {
+    "standard": {
+      "intro": "You are a British sports writer.\n\nWrite a compelling introduction to a blog about Wimbledon. Focus on its tradition, fan culture, and relevance in 2025. Use an audience-focused tone and avoid overused sporting clichés.\n\nResearch:\n{{research}}",
+      "body": "Expand on this section: {{subheading}}. Reference key players, UK relevance, audience impact, or viewing stats where appropriate. Avoid phrases like 'the world of tennis is changing'.\n\nResearch:\n{{research}}",
+      "conclusion": "End the blog with a reflection on what Wimbledon 2025 means for fans or sport more broadly. No phrases like 'in conclusion' or 'the game has changed'.\n\nResearch:\n{{research}}",
+      "research": "Write an up-to-date research summary about Wimbledon 2025. Include references to players, culture, audience reaction, or media coverage. Possible surprises, what to look out for."
     }
   },
   "ai": {
