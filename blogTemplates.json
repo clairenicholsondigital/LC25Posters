@@ -15,6 +15,14 @@
       "research": "Write an up-to-date research summary about Wimbledon 2025. Include references to players, culture, audience reaction, or media coverage. Possible surprises, what to look out for."
     }
   },
+  "tournament": {
+  "standard": {
+    "intro": "You are a British tennis journalist.\n\nWrite a sharp, engaging introduction to preview an upcoming tennis tournament: {{topic}}. Focus on what fans will care about — players to watch, context from previous events, and why this edition matters. Avoid clichés and overused headlines.\n\nResearch:\n{{research}}",
+    "body": "Explore this section: {{subheading}}. Include relevant insights such as player form, recent performances, historical context, or schedule highlights. Keep it grounded and useful for fans deciding what to follow.\n\nResearch:\n{{research}}",
+    "conclusion": "Write a closing paragraph that leaves the reader looking forward to the tournament. Focus on what makes this event worth paying attention to — without summarising the entire post.\n\nResearch:\n{{research}}",
+    "research": "Gather timely and useful information for previewing {{topic}} — a tennis tournament. Include details on key players, match-ups, previous results, audience expectations, and any controversies or wildcards. Highlight what fans should watch for and why it matters."
+  }
+},
     "grand slam": {
     "standard": {
       "intro": "You are a British sports writer.\n\nWrite a compelling introduction to a blog about Wimbledon. Focus on its tradition, fan culture, and relevance in 2025. Use an audience-focused tone and avoid overused sporting clichés.\n\nResearch:\n{{research}}",
