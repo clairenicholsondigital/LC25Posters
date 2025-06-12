@@ -4,6 +4,7 @@
     { "label": "ai", "keywords": ["ai", "chatgpt", "artificial intelligence"] },
     { "label": "wimbledon", "keywords": ["wimbledon", "sw19", "tennis"] },
     { "label": "grand slam", "keywords": ["french open", "roland garros", "us open", "australian open", "aus open"] },
-    { "label": "players", "keywords": ["rafael nadal", "emma raducanu", "novak djokovic"] }
+    { "label": "tournament", "keywords": ["atp", "wta", "queens", "birmingham", "nottingham","clay","grass", "tennis tournament"] },
+    { "label": "players", "keywords": ["rafael nadal", "emma raducanu", "novak djokovic", "djokovic", "murray", "raducanu", "boulter", "katie boulter","sinner", "alcaraz","boisson"] }
   ]
 }
