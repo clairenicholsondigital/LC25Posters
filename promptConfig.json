@@ -1,0 +1,8 @@
+{
+  "default": "default",
+  "matchers": [
+    { "label": "ai", "keywords": ["ai", "chatgpt", "artificial intelligence"] },
+    { "label": "wimbledon", "keywords": ["wimbledon", "grand slam", "tennis"] },
+    { "label": "players", "keywords": ["rafael nadal", "emma raducanu", "novak djokovic"] }
+  ]
+}
