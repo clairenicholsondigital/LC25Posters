@@ -1,591 +1,516 @@
-{"success":true,"data":[
-  {
-    "Presenter": "Afrah Alshammari",
-    "Poster title": "Application of long-read sequencing and EPI2ME workflow in neurodevelopmental disorders and craniosynostosis",
-    "Onsite Number": "-",
-    "Online number": "BI01",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Daniel Köster",
-    "Poster title": "Efficient workflow for demultiplexing and mapping of direct tRNA sequencing",
-    "Onsite Number": 43,
-    "Online number": "BI02",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Ane Novaes",
-    "Poster title": "Benchmarking MetaTropics: a bioinformatics pipeline for metagenomic viral detection",
-    "Onsite Number": 44,
-    "Online number": "BI03",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Dániel Vörösvácki",
-    "Poster title": "WGS for colorectal cancer show patients possess more unique SV of LINE1 than healthy control",
-    "Onsite Number": 45,
-    "Online number": "BI04",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Daria Meyer",
-    "Poster title": "diffONT: predicting methylation-specific PCR primer regions from nanopore sequencing data",
-    "Onsite Number": "-",
-    "Online number": "BI05",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Eddy de Boer",
-    "Poster title": "MOLGENIS VIP v8: from raw data to prioritized variants to solve rare diseases",
-    "Onsite Number": 46,
-    "Online number": "BI06",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Fadia Ibrahim",
-    "Poster title": "TERA-Seq and RNA decay at single-molecule level",
-    "Onsite Number": "-",
-    "Online number": "BI07",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Feng Yan",
-    "Poster title": "Comprehensive evaluation of long-read \u003Ci\u003Ede novo\u003C/i\u003E transcriptome assembly tools",
-    "Onsite Number": "-",
-    "Online number": "BI08",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Harika Urel",
-    "Poster title": "Nanopore- and AI-empowered antibiotic-induced microbial viability inference",
-    "Onsite Number": 47,
-    "Online number": "BI09",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Hasindu Gamaarachchi",
-    "Poster title": "Squigulator: simulation of nanopore sequencing signal data with tunable parameters",
-    "Onsite Number": 48,
-    "Online number": "BI10",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Jackelinne Hayashi",
-    "Poster title": "Sequencing of antibodies from individuals vaccinated with two doses of CoronaVac",
-    "Onsite Number": 49,
-    "Online number": "BI11",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Matthew Szucs",
-    "Poster title": "Assessing deaminases as a method to probe RNA structure",
-    "Onsite Number": "-",
-    "Online number": "BI12",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Jillian Cwycyshyn",
-    "Poster title": "Nanopore sequencing resolves isoform diversity in hematopoietic reprogramming",
-    "Onsite Number": 50,
-    "Online number": "BI13",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Mihail Zdravkov",
-    "Poster title": "Nanocompore 2.0: improved RNA modification detection from nanopore direct RNA sequencing compatible with RNA004 sequencing chemistry",
-    "Onsite Number": 51,
-    "Online number": "BI14",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Lioba Lehmann",
-    "Poster title": "Mapping the mitochondrial RNA modification landscape using nanopore sequencing",
-    "Onsite Number": 52,
-    "Online number": "BI15",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Nirmal Singh Mahar",
-    "Poster title": "NANOTAXI: a fully automated, Shiny-based GUI for real-time 16S rRNA classification of nanopore barcoded reads",
-    "Onsite Number": "-",
-    "Online number": "BI16",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Victoria Palma Rojas",
-    "Poster title": "Nanopore sequencing of rhizospheric bacteria: a strategy for enhancing reforestation efforts in Chile",
-    "Onsite Number": "-",
-    "Online number": "BI17",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Oliver Cheng",
-    "Poster title": "nailpolish: reference-free error correction for Oxford Nanopore data with UMIs",
-    "Onsite Number": "-",
-    "Online number": "BI18",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Nikolett Szakállas",
-    "Poster title": "Methodological comparison of short-read and long-read sequencing methods on colorectal cancer samples",
-    "Onsite Number": 53,
-    "Online number": "BI19",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Samir Atum",
-    "Poster title": "Real-time plasmid detection through AI-powered nanopore technology",
-    "Onsite Number": 54,
-    "Online number": "BI20",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Yalan Bi",
-    "Poster title": "IsoTools 2.0: software for comprehensive analysis of long-read transcriptome sequencing data",
-    "Onsite Number": 55,
-    "Online number": "BI21",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Pavle Vrljicak",
-    "Poster title": "Advancing biologics production through nanopore whole-genome sequencing",
-    "Onsite Number": 56,
-    "Online number": "BI22",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Sverre Branders",
-    "Poster title": "Voyager: novel real-time taxonomic characterization of long-read sequence data",
-    "Onsite Number": 57,
-    "Online number": "BI23",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Michael Nakai",
-    "Poster title": "Isopod: simulating and detecting differential transcript usage between cell types with long-read, single-cell data",
-    "Onsite Number": 58,
-    "Online number": "BI24",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Meghana Vanjani",
-    "Poster title": "Triomics insights into lens abnormalities: a study on congenital and age-related cataracts",
-    "Onsite Number": "-",
-    "Online number": "BI25",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Javier Quilez Oliete",
-    "Poster title": "Assessing the readiness of Oxford Nanopore Technologies sequencing for clinical genomics applications",
-    "Onsite Number": 59,
-    "Online number": "BI26",
-    "Poster Hall": "Bioinformatics"
-  },
-  {
-    "Presenter": "Luke Ames",
-    "Poster title": "Optimising the read length of NHS samples to improve clinical analysis techniques via a modified library preparation approach",
-    "Onsite Number": 7,
-    "Online number": "CL01",
-    "Poster Hall": "Clinical research"
-  },
-  {
-    "Presenter": "Emma Salatti",
-    "Poster title": "Know, monitor, and document bioproduction using direct RNA sequencing",
-    "Onsite Number": 8,
-    "Online number": "CL02",
-    "Poster Hall": "Clinical research"
-  },
-  {
-    "Presenter": "Hiu Yeung Lau",
-    "Poster title": "Evaluation of nanopore sequencing in risk stratification of neuroblastoma",
-    "Onsite Number": 9,
-    "Online number": "CL03",
-    "Poster Hall": "Clinical research"
-  },
-  {
-    "Presenter": "Pamela Gan",
-    "Poster title": "Targeted adaptive sampling for pharmacogenomics and genome-wide variant analysis",
-    "Onsite Number": 10,
-    "Online number": "CL04",
-    "Poster Hall": "Clinical research"
-  },
-  {
-    "Presenter": "Lee Murphy",
-    "Poster title": "Understanding gene expression involved in immune response to SARS-CoV-2 infection",
-    "Onsite Number": "-",
-    "Online number": "CL05",
-    "Poster Hall": "Clinical research"
-  },
-  {
-    "Presenter": "Daniela Bezdan",
-    "Poster title": "dxOmics: an AI-assisted clinical decision support platform for nanopore diagnostics",
-    "Onsite Number": 11,
-    "Online number": "CL06",
-    "Poster Hall": "Clinical research"
-  },
-  {
-    "Presenter": "Martin Haagmans",
-    "Poster title": "Direct RNA sequencing detects more aberrant transcripts than regular diagnostic procedure",
-    "Onsite Number": 12,
-    "Online number": "CL07",
-    "Poster Hall": "Clinical research"
-  },
-  {
-    "Presenter": "Anne-Sophie Lebre",
-    "Poster title": "A French multicentric evaluation of the newly launched AmplideX Nanopore Carrier Plus Kit",
-    "Onsite Number": 13,
-    "Online number": "CL08",
-    "Poster Hall": "Clinical research"
-  },
-  {
-    "Presenter": "Aldana Claps",
-    "Poster title": "Characterization of 21-hydroxylase deficiency cohort by long-read sequencing",
-    "Onsite Number": "-",
-    "Online number": "HT01",
-    "Poster Hall": "Human & translational research"
-  },
-  {
-    "Presenter": "Rodrigo Alarcon",
-    "Poster title": "Determining the fate of engineered tRNAs in human cells by direct RNA sequencing",
-    "Onsite Number": 1,
-    "Online number": "HT02",
-    "Poster Hall": "Human & translational research"
-  },
-  {
-    "Presenter": "Marie-Therese Neuhoff",
-    "Poster title": "Accelerating personalised cell therapies: targeted long-read nanopore sequencing meets optimised machine learning",
-    "Onsite Number": 2,
-    "Online number": "HT03",
-    "Poster Hall": "Human & translational research"
-  },
-  {
-    "Presenter": "Theodore Nelson",
-    "Poster title": "Differences in single-nucleotide m6A stoichiometries with nanopore direct RNA sequencing",
-    "Onsite Number": 3,
-    "Online number": "HT04",
-    "Poster Hall": "Human & translational research"
-  },
-  {
-    "Presenter": "Alessia Mauri",
-    "Poster title": "Nanopore adaptive sampling for targeted methylation analysis in Beckwith-Wiedemann syndrome: a new approach for molecular diagnosis of imprinting disorders",
-    "Onsite Number": "-",
-    "Online number": "HT05",
-    "Poster Hall": "Human & translational research"
-  },
-  {
-    "Presenter": "Giles Holt",
-    "Poster title": "Targeted long-read sequencing of the RCA cluster to personalise management of atypical haemolytic-uremic syndrome",
-    "Onsite Number": 4,
-    "Online number": "HT06",
-    "Poster Hall": "Human & translational research"
-  },
-  {
-    "Presenter": "Elise Coopman",
-    "Poster title": "Long-read direct RNA sequencing of brain tissue: RNA modifications and neurodegeneration",
-    "Onsite Number": 5,
-    "Online number": "HT07",
-    "Poster Hall": "Human & translational research"
-  },
-  {
-    "Presenter": "Laura Ebner",
-    "Poster title": "Application of direct RNA sequencing in rare genetic disease diagnosis",
-    "Onsite Number": "",
-    "Online number": "HT08",
-    "Poster Hall": "Human & translational research"
-  },
-  {
-    "Presenter": "Mayank Mitram",
-    "Poster title": "Multiplexed molecular sensing with next-generation sequencing",
-    "Onsite Number": 6,
-    "Online number": "HT09",
-    "Poster Hall": "Human & translational research"
-  },
-  {
-    "Presenter": "Sarah Wegmüller",
-    "Poster title": "Innovative Oxford Nanopore Technologies sequencing courses: preparing future engineers for the industry",
-    "Onsite Number": 25,
-    "Online number": "MI01",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Akhauri Yash Sinha",
-    "Poster title": "Fuvibact: a rapid, sensitive, and accurate tool for infectious disease diagnosis",
-    "Onsite Number": "-",
-    "Online number": "MI02",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Dzidzor Ayeke",
-    "Poster title": "Molecular characterization of fungi populations among individuals with filarial lymphedema in Southern Ghana",
-    "Onsite Number": "-",
-    "Online number": "MI03",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Amro Hashish",
-    "Poster title": "Oxford Nanopore Technologies: reshaping the landscape of animal infectious disease diagnosis",
-    "Onsite Number": 26,
-    "Online number": "MI04",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Ela Sauerborn",
-    "Poster title": "Nanopore-enabled detection of a plasmid mediation in a healthcare-associated \u003Ci\u003ECitrobacter freundii\u003C/i\u003E outbreak",
-    "Onsite Number": 27,
-    "Online number": "MI05",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Olga Francino & Joan Marti-Carreras",
-    "Poster title": "Antimicrobial resistance genes in commensal bacteria from the skin of healthy dogs",
-    "Onsite Number": 28,
-    "Online number": "MI06",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Lisbeth Elvira de Vries & Sabine F.H. Clausen",
-    "Poster title": "Oxford Nanopore sequencing projects support technological literacy at the Lab Technician Education",
-    "Onsite Number": 29,
-    "Online number": "MI07",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Dele Ogunremi",
-    "Poster title": "Applying metagenomics to food safety using the nanopore sequencing platform",
-    "Onsite Number": 30,
-    "Online number": "MI08",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Maria Chaves",
-    "Poster title": "Improved Oxford Nanopore sequencing workflow for avian influenza detection from clinical samples",
-    "Onsite Number": 31,
-    "Online number": "MI09",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Edward Post",
-    "Poster title": "Nanolimits of detection: \u003Ci\u003Ein silico\u003C/i\u003E detection of NSCLC methylation in cfDNA",
-    "Onsite Number": 32,
-    "Online number": "MI10",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Marina Carrasco Martin",
-    "Poster title": "Aneuploidy and copy number variations as drug-resistance and pathogenicity biomarkers in \u003Ci\u003ELeishmania infantum\u003C/i\u003E",
-    "Onsite Number": 33,
-    "Online number": "MI11",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Martin Faye",
-    "Poster title": "Recent molecular epidemiology of echovirus 11 throughout North and West Africa resulted in the first identification of a recombinant strain from an acute flaccid paralysis case in West Africa",
-    "Onsite Number": "-",
-    "Online number": "MI12",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Meenal Vyvas",
-    "Poster title": "Direct RNA sequencing of bacterial RNA on the Oxford Nanopore platform",
-    "Onsite Number": "-",
-    "Online number": "MI13",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Noah Bryan",
-    "Poster title": "A novel, rapid water test",
-    "Onsite Number": "-",
-    "Online number": "MI14",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Ndack Ndiaye",
-    "Poster title": "Non-polio enteroviruses circulation in acute flaccid paralysis cases and sewage in Senegal from 2013 to 2021",
-    "Onsite Number": "-",
-    "Online number": "MI15",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Opeyemi Lawal",
-    "Poster title": "Non-targeted wastewater analysis using full-length 16S rRNA nanopore sequencing to track foodborne bacterial pathogens",
-    "Onsite Number": "-",
-    "Online number": "MI16",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Aline Adler",
-    "Poster title": "Long-read 18S rRNA gene metabarcoding provides insights into unexplored protist diversity",
-    "Onsite Number": 34,
-    "Online number": "MI17",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Rémi Vincent",
-    "Poster title": "Rapid detection of highly pathogenic bacteria using a multiplex amplicon-based sequencing approach",
-    "Onsite Number": 35,
-    "Online number": "MI18",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Soyoung Choi",
-    "Poster title": "Successfully sequenced \u003Ci\u003ECandida\u003C/i\u003E meningitis in a patient with medulloblastoma",
-    "Onsite Number": 36,
-    "Online number": "MI19",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Scott Berry",
-    "Poster title": "Low-cost wastewater resistome sequencing in Sub-Saharan Africa",
-    "Onsite Number": 37,
-    "Online number": "MI20",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Amanda Bartling",
-    "Poster title": "MinION sequencing of high-consequence pathogens in a BSL-3 for outbreak analysis",
-    "Onsite Number": 38,
-    "Online number": "MI21",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Brianna Miranda",
-    "Poster title": "Use of eDNA to resolve non-point source nutrient loading to a point source",
-    "Onsite Number": "-",
-    "Online number": "MI22",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Thomas Saville",
-    "Poster title": "Improved detection of bacterial infections in clinical samples using a newly developed Oxford Nanopore technology-based 16S sequencing assay",
-    "Onsite Number": "-",
-    "Online number": "MI23",
-    "Poster Hall": "Microbiology & infectious disease"
-  },
-  {
-    "Presenter": "Rubina Islam",
-    "Poster title": "Nanopore-based characterization of lineage subtype and genome in acute leukemia",
-    "Onsite Number": 14,
-    "Online number": "OC01",
-    "Poster Hall": "Oncology & cancer research"
-  },
-  {
-    "Presenter": "Steven Hair",
-    "Poster title": "Using ultra-long-read Oxford Nanopore sequencing to detect complex structural variants in leukaemia",
-    "Onsite Number": 15,
-    "Online number": "OC02",
-    "Poster Hall": "Oncology & cancer research"
-  },
-  {
-    "Presenter": "Mickaël Seppey",
-    "Poster title": "Addressing genome amplification bias: enhancing genetic profiling of lung cancer",
-    "Onsite Number": 16,
-    "Online number": "OC03",
-    "Poster Hall": "Oncology & cancer research"
-  },
-  {
-    "Presenter": "Lucy Picard",
-    "Poster title": "Development of a multi-biomarker diagnostic pipeline",
-    "Onsite Number": 17,
-    "Online number": "OC04",
-    "Poster Hall": "Oncology & cancer research"
-  },
-  {
-    "Presenter": "Tafadzwa Dylan Nyakubaya",
-    "Poster title": "Streamlined detection of tRNAs in mouse models using Oxford Nanopore: insights from B16 melanoma and \u003Ci\u003EApc\u003C/i\u003E\u003Csup\u003Elox/lox\u003C/sup\u003E organoids",
-    "Onsite Number": 18,
-    "Online number": "OC05",
-    "Poster Hall": "Oncology & cancer research"
-  },
-  {
-    "Presenter": "Istvan Kleijn",
-    "Poster title": "Detecting breast tumour DNA in blood by copy number alterations and methylation",
-    "Onsite Number": 19,
-    "Online number": "OC06",
-    "Poster Hall": "Oncology & cancer research"
-  },
-  {
-    "Presenter": "Michelle Ng",
-    "Poster title": "Dysregulation of viral and human genomes at HPV integration events",
-    "Onsite Number": 20,
-    "Online number": "OC07",
-    "Poster Hall": "Oncology & cancer research"
-  },
-  {
-    "Presenter": "Joe Fenwick",
-    "Poster title": "Targeted barcoded ultra-long (BULK) DNA sequencing: more where it matters",
-    "Onsite Number": 21,
-    "Online number": "OC08",
-    "Poster Hall": "Oncology & cancer research"
-  },
-  {
-    "Presenter": "Alvin Ng",
-    "Poster title": "Detection of homologous recombination deficiency mutational signatures using adaptive sampling",
-    "Onsite Number": 22,
-    "Online number": "OC09",
-    "Poster Hall": "Oncology & cancer research"
-  },
-  {
-    "Presenter": "Heather Thorne",
-    "Poster title": "Optimising QIAGEN's MagAttract HMW DNA Kit using various cryopreserved blood derivatives from kConFab participants for Oxford Nanopore Technologies long-read sequencing",
-    "Onsite Number": 23,
-    "Online number": "OC10",
-    "Poster Hall": "Oncology & cancer research"
-  },
-  {
-    "Presenter": "Jackson Peterson",
-    "Poster title": "Low-input RNA sequencing to discover and quantify RNA isoforms: SMART-Seq mRNA Long Read",
-    "Onsite Number": "-",
-    "Online number": "OC11",
-    "Poster Hall": "Oncology & cancer research"
-  },
-  {
-    "Presenter": "Kristóf Rada",
-    "Poster title": "Nanopore sequencing and methylation profiling of Hungarian colorectal cancer patients",
-    "Onsite Number": 24,
-    "Online number": "OC12",
-    "Poster Hall": "Oncology & cancer research"
-  },
-  {
-    "Presenter": "Amalee Nunnally",
-    "Poster title": "Capturing PRRSV: probe enrichment for whole-genome sequencing on field samples",
-    "Onsite Number": 39,
-    "Online number": "PA01",
-    "Poster Hall": "Plant & animal"
-  },
-  {
-    "Presenter": "Adam Vivian-Smith",
-    "Poster title": "Metagenomic assembly and adaptive sampling of photobionts from usneoid lichens",
-    "Onsite Number": 40,
-    "Online number": "PA02",
-    "Poster Hall": "Plant & animal"
-  },
-  {
-    "Presenter": "Kristina Vsevolodova",
-    "Poster title": "Developing scalable genotyping tools for Andean bear conservation genomics",
-    "Onsite Number": 41,
-    "Online number": "PA03",
-    "Poster Hall": "Plant & animal"
-  },
-  {
-    "Presenter": "Linda Kothera",
-    "Poster title": "Using nanopore amplicon sequencing to identify mosquito bloodmeal hosts",
-    "Onsite Number": "-",
-    "Online number": "PA04",
-    "Poster Hall": "Plant & animal"
-  },
-  {
-    "Presenter": "Scott Reed",
-    "Poster title": "Field sample to serotype: sequencing tools for rapid \u003Ci\u003ESalmonella\u003C/i\u003E characterization",
-    "Onsite Number": 42,
-    "Online number": "PA05",
-    "Poster Hall": "Plant & animal"
-  },
-  {
-    "Presenter": "Manali Bajpai",
-    "Poster title": "Surveillance and variant analysis of LSDV in dairy cattle across India",
-    "Onsite Number": "-",
-    "Online number": "PA06",
-    "Poster Hall": "Plant & animal"
-  }
-]
+{
+  "success": true,
+  "data": [
+    {
+      "Presenter": "Sefi Prawer",
+      "Poster title": "Unlocking isoform programs underlying brain development with long-read single-cell RNA sequencing",
+      "Online number": "HT01",
+      "Onsite Number": 1,
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Talal Al-Yazeedi",
+      "Poster title": "Structural variant discovery in MENA individuals using Oxford Nanopore technology reveals clinically relevant variation",
+      "Online number": "HT02",
+      "Onsite Number": 2,
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Nada El Makhzen",
+      "Poster title": "Empowering rare disease genomics in Africa through Oxford Nanopore long-read sequencing of the CFTR and ATP7B genes",
+      "Online number": "HT03",
+      "Onsite Number": 3,
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Jason Betley",
+      "Poster title": "mcPCR™: PCR for methylation - massive amplification of targeted and whole-genome libraries for direct genotyping and methylation readout on nanopores",
+      "Online number": "HT04",
+      "Onsite Number": 4,
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Lisa Koole",
+      "Poster title": "Unmasking cell type-specific epigenetics through low-input nanopore sequencing",
+      "Online number": "HT05",
+      "Onsite Number": 5,
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Stefan Pastore",
+      "Poster title": "Mapping human precursor-rRNA processing and modification at single nucleotide resolution using long-read nanopore sequencing",
+      "Online number": "HT06",
+      "Onsite Number": 6,
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Rugile Matuleviciute",
+      "Poster title": "Analysis of RNA modifications in human induced pluripotent stem cell microglia with direct RNA sequencing",
+      "Online number": "HT07",
+      "Onsite Number": 7,
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Sinisa Dovat",
+      "Poster title": "Single-cell RNA sequencing of inflamed skin using integrated Parse and Oxford Nanopore systems",
+      "Online number": "HT08",
+      "Onsite Number": 8,
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Shweta Sharma",
+      "Poster title": "CYP2D6 polymorphisms and implications for malaria therapy",
+      "Online number": "HT09",
+      "Onsite Number": 9,
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Benjamin C. Reiner",
+      "Poster title": "Atlas of morphine isoforms and epitranscriptome across rat brain circuits",
+      "Online number": "HT10",
+      "Onsite Number": 10,
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Nick Owens",
+      "Poster title": "Targeted chromatin stencilling by Adaptive Sampling to understand disease",
+      "Online number": "HT11",
+      "Onsite Number": 11,
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Aldana Claps",
+      "Poster title": "High precision characterization of RCCX rearrangements in 21-hydroxylase deficiency: extended analysis of a Latin American cohort using Oxford Nanopore long-read sequencing",
+      "Online number": "HT12",
+      "Onsite Number": "-",
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Koji Ishiya",
+      "Poster title": "Decoding the past with nanopore sequencing: applications in ancient DNA research",
+      "Online number": "HT13",
+      "Onsite Number": "-",
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Ryan Montes",
+      "Poster title": "End-to-end automation for ultra-long DNA library preparation via electro-hydrodynamic microfluidics",
+      "Online number": "HT14",
+      "Onsite Number": "-",
+      "Poster Hall": "Human & translational research"
+    },
+    {
+      "Presenter": "Kylie Montgomery",
+      "Poster title": "RAPID: a targeted long-read RNA workflow for functional resolution of splicing variants in rare disease",
+      "Online number": "CL01",
+      "Onsite Number": 12,
+      "Poster Hall": "Clinical research"
+    },
+    {
+      "Presenter": "Bertrand Simon",
+      "Poster title": "Clinical study of OCEAN-Dx bacteriemia diagnostic test using Flongle Flow Cells",
+      "Online number": "CL02",
+      "Onsite Number": 13,
+      "Poster Hall": "Clinical research"
+    },
+    {
+      "Presenter": "Adjima Assawapitaksakul",
+      "Poster title": "Rapid singleton long-read genome sequencing for critically ill individuals identifies pathogenic mitochondrial DNA variants",
+      "Online number": "CL03",
+      "Onsite Number": 14,
+      "Poster Hall": "Clinical research"
+    },
+    {
+      "Presenter": "Filip Sima",
+      "Poster title": "Full-length nanopore sequencing enables haplotype-resolved blood genotyping",
+      "Online number": "CL04",
+      "Onsite Number": 15,
+      "Poster Hall": "Clinical research"
+    },
+    {
+      "Presenter": "Rutairat Wongong",
+      "Poster title": "Rapid Oxford Nanopore long-read sequencing enables allelic phasing and improves molecular interpretation of autosomal recessive disorders",
+      "Online number": "CL05",
+      "Onsite Number": 16,
+      "Poster Hall": "Clinical research"
+    },
+    {
+      "Presenter": "Jonathon Hill",
+      "Poster title": "Targeted long-read sequencing enables accurate analysis of complex polycystic kidney disease loci",
+      "Online number": "CL06",
+      "Onsite Number": 17,
+      "Poster Hall": "Clinical research"
+    },
+    {
+      "Presenter": "Jangsup Moon",
+      "Poster title": "Comprehensive detection of repeat expansion disorders via Cas9-enriched nanopore sequencing",
+      "Online number": "CL07",
+      "Onsite Number": "-",
+      "Poster Hall": "Clinical research"
+    },
+    {
+      "Presenter": "Steven Hair",
+      "Poster title": "Telomere-to-telomere assembly of a rare constitutional dicentric chromosome",
+      "Online number": "OC01",
+      "Onsite Number": 18,
+      "Poster Hall": "Oncology & cancer research"
+    },
+    {
+      "Presenter": "Nikolett Szakállas",
+      "Poster title": "Methodological comparison of short-read and long-read sequencing methods",
+      "Online number": "OC02",
+      "Onsite Number": 19,
+      "Poster Hall": "Oncology & cancer research"
+    },
+    {
+      "Presenter": "Béla Molnár",
+      "Poster title": "Genomic landscape of colorectal cancer in a Hungarian cohort",
+      "Online number": "OC03",
+      "Onsite Number": 20,
+      "Poster Hall": "Oncology & cancer research"
+    },
+    {
+      "Presenter": "Nicolas Salcedo-Porras",
+      "Poster title": "Rapid targeted nanopore sequencing unlocks clinically actionable acute myeloid leukemia variants",
+      "Online number": "OC04",
+      "Onsite Number": 21,
+      "Poster Hall": "Oncology & cancer research"
+    },
+    {
+      "Presenter": "Julia Parlow",
+      "Poster title": "Rapid glioma profiling by nanopore sequencing and optical genome mapping",
+      "Online number": "OC05",
+      "Onsite Number": 22,
+      "Poster Hall": "Oncology & cancer research"
+    },
+    {
+      "Presenter": "Romain Boidot",
+      "Poster title": "Native methylation nanopore sequencing for tumor-agnostic minimal residual disease detection",
+      "Online number": "OC06",
+      "Onsite Number": "-",
+      "Poster Hall": "Oncology & cancer research"
+    },
+    {
+      "Presenter": "Carla Apaza",
+      "Poster title": "Revealing minor subpopulations in mixed infections with targeted sequencing",
+      "Online number": "MI01",
+      "Onsite Number": 23,
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Paul José Darío Avellaneda Menéndez",
+      "Poster title": "Nanopore wastewater sequencing for hospital pathogen surveillance and correlation with clinical isolates",
+      "Online number": "MI02",
+      "Onsite Number": 24,
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Wim Cuypers",
+      "Poster title": "Monitoring pathogens and antimicrobial resistance in wastewater using nanopore sequencing",
+      "Online number": "MI03",
+      "Onsite Number": 25,
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Ajinkya Khilari",
+      "Poster title": "Drug resistance profiling from clinical isolates of <i>Plasmodium falciparum</i> using nanopore sequencing",
+      "Online number": "MI04",
+      "Onsite Number": 26,
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Shing Hei Lam",
+      "Poster title": "PromethION 24 whole-genome sequencing unveils avian A(H9N2) viral phylodynamics in Hong Kong poultry using V14 chemistry",
+      "Online number": "MI05",
+      "Onsite Number": 27,
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Jana Wiedermannová",
+      "Poster title": "Pseudouridine modifications in bacterial mRNA",
+      "Online number": "MI06",
+      "Onsite Number": 28,
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Tomáš Strečanský",
+      "Poster title": "One Health surveillance of historic mining lakes using nanopore metagenomics",
+      "Online number": "MI07",
+      "Onsite Number": 29,
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Marc Venbrux",
+      "Poster title": "Long-read metabarcoding with an alternative single-copy marker enables improved bacterial species resolution",
+      "Online number": "MI08",
+      "Onsite Number": 30,
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Johannes Debler",
+      "Poster title": "Hiding in plain sight: a novel 24 kb circular element unmasked by the <i>Ascochyta lentis</i> pangenome",
+      "Online number": "MI09",
+      "Onsite Number": 31,
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Felix Bender",
+      "Poster title": "SALDOR-Seq: a novel workflow for full-length sequencing of long dsRNA",
+      "Online number": "MI10",
+      "Onsite Number": 32,
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Jose Alexander",
+      "Poster title": "Detection of blaZ type and regulatory mutations to predict the inoculum effect in methicillin-susceptible <i>Staphylococcus aureus</i> bacteremia and guide rapid dual β-lactam escalation: a feasibility study",
+      "Online number": "MI11",
+      "Onsite Number": 33,
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Omar Romero",
+      "Poster title": "Detecting TB heteroresistance with nanopore amplicons and Adaptive Sampling",
+      "Online number": "MI12",
+      "Onsite Number": 34,
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "David Graf",
+      "Poster title": "A low-resource microfluidic chip for nanopore sequencing library preparation",
+      "Online number": "MI13",
+      "Onsite Number": "-",
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Erica Aristizabal",
+      "Poster title": "A dominant role of the social behavior over SARS-CoV-2 genomic changes in COVID-19 surges in Cali, Colombia",
+      "Online number": "MI14",
+      "Onsite Number": "-",
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Mayra Ochoa",
+      "Poster title": "ISO 15189 validation of nanopore 16S rRNA sequencing and bioinformatic analysis",
+      "Online number": "MI15",
+      "Onsite Number": "-",
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Sergii Borovkov",
+      "Poster title": "Productivity-associated gut microbiome signatures and feeding strategies in poultry and swine using nanopore long-read 16S sequencing",
+      "Online number": "MI16",
+      "Onsite Number": "-",
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Dena Block",
+      "Poster title": "An automated sample-to-analysis microbial whole-genome sequencing workflow using GeneXpert and nanopore sequencing",
+      "Online number": "MI17",
+      "Onsite Number": "-",
+      "Poster Hall": "Microbiology & infectious disease"
+    },
+    {
+      "Presenter": "Omar Romero (on behalf of Jimena Belen Raez Pereyra)",
+      "Poster title": "A whole mosquito genome from single specimens using Oxford Nanopore technology",
+      "Online number": "PA01",
+      "Onsite Number": 35,
+      "Poster Hall": "Plant & animal research"
+    },
+    {
+      "Presenter": "Damien Hinsinger",
+      "Poster title": "Building the melon pan‑NLRome from nanopore Adaptive Sampling reads",
+      "Online number": "PA02",
+      "Onsite Number": 36,
+      "Poster Hall": "Plant & animal research"
+    },
+    {
+      "Presenter": "Kristina Vsevolodova",
+      "Poster title": "Optimizing non-invasive single nucleotide polymorphism genotyping: insights from controlled degradation of fecal DNA in endangered species",
+      "Online number": "PA03",
+      "Onsite Number": 37,
+      "Poster Hall": "Plant & animal research"
+    },
+    {
+      "Presenter": "Daniel Gygax",
+      "Poster title": "Capturing vertebrate diversity from the air: field-based airborne DNA monitoring in Luambe National Park, Zambia",
+      "Online number": "PA04",
+      "Onsite Number": 38,
+      "Poster Hall": "Plant & animal research"
+    },
+    {
+      "Presenter": "Jin Yan Khoo",
+      "Poster title": "Comprehensive benchmarking of sequencing technologies for DNA methylation calling",
+      "Online number": "PA05",
+      "Onsite Number": 39,
+      "Poster Hall": "Plant & animal research"
+    },
+    {
+      "Presenter": "Leila Vieira",
+      "Poster title": "Highly contiguous genome of a complex neotropical palm",
+      "Online number": "PA06",
+      "Onsite Number": "-",
+      "Poster Hall": "Plant & animal research"
+    },
+    {
+      "Presenter": "Alireza Najafi Fard",
+      "Poster title": "Profiling arbuscular mycorrhizal fungi dynamics under drought using Oxford Nanopore Technologies sequencing with adaptive depletion",
+      "Online number": "PA07",
+      "Onsite Number": "-",
+      "Poster Hall": "Plant & animal research"
+    },
+    {
+      "Presenter": "Nathan Smits",
+      "Poster title": "A modified Oxford Nanopore Technologies library preparation protocol reduces DNA input requirements and enables epigenomic profiling of low-input samples",
+      "Online number": "PA08",
+      "Onsite Number": "-",
+      "Poster Hall": "Plant & animal research"
+    },
+    {
+      "Presenter": "Raquel Vionette Amaral",
+      "Poster title": "DNA extraction of challenging species for Oxford Nanopore-based telomere-to-telomere genome assembly",
+      "Online number": "PA09",
+      "Onsite Number": "-",
+      "Poster Hall": "Plant & animal research"
+    },
+    {
+      "Presenter": "Jonas Gustafson",
+      "Poster title": "needLR and TRoLR: structural variant filtering and prioritization tools for long-read sequencing data",
+      "Online number": "BF01",
+      "Onsite Number": 40,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Olena-Maria Balta",
+      "Poster title": "Adapting SPLiT-seq for long-read single-cell transcriptomics with Oxford Nanopore Technologies",
+      "Online number": "BF02",
+      "Onsite Number": 41,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Tayab Soomro",
+      "Poster title": "nanoCAS: nanopore classification and alerting system - an event-driven framework for real-time detection and decision making during nanopore sequencing",
+      "Online number": "BF03",
+      "Onsite Number": 42,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Lennart Braun",
+      "Poster title": "Advancing RNA modification analysis: a specialized visualization tool for nanopore direct RNA sequencing data",
+      "Online number": "BF04",
+      "Onsite Number": 43,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Lioba Lehmann",
+      "Poster title": "Quantitative profiling of the mitochondrial epitranscriptome",
+      "Online number": "BF05",
+      "Onsite Number": 44,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Pablo Angulo Lara",
+      "Poster title": "Long-read sequencing uncovers allele-specific dosage compensation in aneuploidy",
+      "Online number": "BF06",
+      "Onsite Number": 45,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Alexander Haehnel",
+      "Poster title": "Ribosomal RNA modification caller: harnessing native RNA for modification detection",
+      "Online number": "BF07",
+      "Onsite Number": 46,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Edna Stewart",
+      "Poster title": "Oxford Nanopore-based chromatin stenciling captures synchronous accessibility and methylation",
+      "Online number": "BF08",
+      "Onsite Number": 47,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Dániel Vörösvácki",
+      "Poster title": "Genome-wide analysis shows increased LINE-1 retrotransposition in colorectal cancer",
+      "Online number": "BF09",
+      "Onsite Number": 48,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Vincent Dietrich",
+      "Poster title": "Fishnet: accessible and fast signal-to-sequence alignment",
+      "Online number": "BF10",
+      "Onsite Number": 49,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Athina Vidaki",
+      "Poster title": "ECHO: a nanopore sequencing-based workflow for (epi)genetic profiling of the human repeatome",
+      "Online number": "BF11",
+      "Onsite Number": 50,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Steven Losh",
+      "Poster title": "Improving somatic insertion detection in nanopore sequencing by identifying rare-event-confounding read artifacts",
+      "Online number": "BF12",
+      "Onsite Number": 51,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Sathish Thiyagarajan",
+      "Poster title": "Single-molecule analysis of natural and synthetic base modifications via Nanalogue",
+      "Online number": "BF13",
+      "Onsite Number": 52,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Laura Raes",
+      "Poster title": "Establishing a reproducible baseline for squiggle-space algorithm development",
+      "Online number": "BF14",
+      "Onsite Number": 53,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Stuart Akeson",
+      "Poster title": "Transfer RNA isodecoders resolved through ionic current",
+      "Online number": "BF15",
+      "Onsite Number": 54,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Marcel Misak",
+      "Poster title": "CCUT: upscaling Pore-C data for high-resolution chromatin contact maps",
+      "Online number": "BF16",
+      "Onsite Number": 55,
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Renata Kabiljo",
+      "Poster title": "Long-read Oxford Nanopore Technologies sequencing for resolving complex mitochondrial rearrangements",
+      "Online number": "BF17",
+      "Onsite Number": "-",
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Yanwen Shao",
+      "Poster title": "SLRanger: an integrated approach for spliced-leader detection and operon prediction using long RNA reads",
+      "Online number": "BF18",
+      "Onsite Number": "-",
+      "Poster Hall": "Bioinformatics"
+    },
+    {
+      "Presenter": "Jamie Moore",
+      "Poster title": "An ultra-long nanopore-only genome assembly and annotation resource for Chinese hamster ovary cells",
+      "Online number": "BP01",
+      "Onsite Number": 56,
+      "Poster Hall": "Biopharma"
+    },
+    {
+      "Presenter": "Paola Niola",
+      "Poster title": "Highly scalable and accurate Oxford Nanopore sequencing for comprehensive T-cell receptor and antibody screening",
+      "Online number": "BP02",
+      "Onsite Number": 57,
+      "Poster Hall": "Biopharma"
+    }
+  ]
 }
