@@ -17,14 +17,14 @@
     },
     {
       "Presenter": "Nada El Makhzen",
-      "Poster title": "Empowering rare disease genomics in Africa through Oxford Nanopore long-read sequencing of the CFTR and ATP7B genes",
+      "Poster title": "Empowering rare disease genomics in Africa through Oxford Nanopore long-read sequencing of the <i>CFTR</i> and <i>ATP7B</i> genes",
       "Online number": "HT03",
       "Onsite Number": 3,
       "Poster Hall": "Human & translational research"
     },
     {
       "Presenter": "Jason Betley",
-      "Poster title": "mcPCR™: PCR for methylation - massive amplification of targeted and whole-genome libraries for direct genotyping and methylation readout on nanopores",
+      "Poster title": "mcPCR™: PCR for methylation — massive amplification of targeted and whole-genome libraries for direct genotyping and methylation readout on nanopores",
       "Online number": "HT04",
       "Onsite Number": 4,
       "Poster Hall": "Human & translational research"
@@ -59,7 +59,7 @@
     },
     {
       "Presenter": "Shweta Sharma",
-      "Poster title": "CYP2D6 polymorphisms and implications for malaria therapy",
+      "Poster title": "<i>CYP2D6</i> polymorphisms and implications for malaria therapy",
       "Online number": "HT09",
       "Onsite Number": 9,
       "Poster Hall": "Human & translational research"
@@ -248,7 +248,7 @@
     },
     {
       "Presenter": "Johannes Debler",
-      "Poster title": "Hiding in plain sight: a novel 24 kb circular element unmasked by the <i>Ascochyta lentis</i> pangenome",
+      "Poster title": "Hiding in plain sight: a novel 24 kb circular element unmasked by the <i>Ascochyta lentis</i> pangenome",
       "Online number": "MI09",
       "Onsite Number": 31,
       "Poster Hall": "Microbiology & infectious disease"
@@ -262,7 +262,7 @@
     },
     {
       "Presenter": "Jose Alexander",
-      "Poster title": "Detection of blaZ type and regulatory mutations to predict the inoculum effect in methicillin-susceptible <i>Staphylococcus aureus</i> bacteremia and guide rapid dual β-lactam escalation: a feasibility study",
+      "Poster title": "Detection of <i>blaZ</i> type and regulatory mutations to predict the inoculum effect in methicillin-susceptible <i>Staphylococcus aureus</i> bacteremia and guide rapid dual β-lactam escalation: a feasibility study",
       "Online number": "MI11",
       "Onsite Number": 33,
       "Poster Hall": "Microbiology & infectious disease"
@@ -290,7 +290,7 @@
     },
     {
       "Presenter": "Mayra Ochoa",
-      "Poster title": "ISO 15189 validation of nanopore 16S rRNA sequencing and bioinformatic analysis",
+      "Poster title": "ISO 15189 validation of nanopore 16S rRNA sequencing and bioinformatic analysis",
       "Online number": "MI15",
       "Onsite Number": "-",
       "Poster Hall": "Microbiology & infectious disease"
@@ -318,7 +318,7 @@
     },
     {
       "Presenter": "Damien Hinsinger",
-      "Poster title": "Building the melon pan‑NLRome from nanopore Adaptive Sampling reads",
+      "Poster title": "Building the melon pan-NLRome from nanopore Adaptive Sampling reads",
       "Online number": "PA02",
       "Onsite Number": 36,
       "Poster Hall": "Plant & animal research"
@@ -388,7 +388,7 @@
     },
     {
       "Presenter": "Tayab Soomro",
-      "Poster title": "nanoCAS: nanopore classification and alerting system - an event-driven framework for real-time detection and decision making during nanopore sequencing",
+      "Poster title": "nanoCAS: nanopore classification and alerting system — an event-driven framework for real-time detection and decision making during nanopore sequencing",
       "Online number": "BF03",
       "Onsite Number": 42,
       "Poster Hall": "Bioinformatics"
